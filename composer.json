@@ -11,8 +11,7 @@
     "require": {
         "php": "^8.0",
         "league/flysystem": "^3.10",
-        "google/apiclient": "^2.12",
-        "nao-pon/flysystem-cached-extra": "^1.0"
+        "google/apiclient": "^2.12"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5",
