@@ -22,8 +22,5 @@
         "psr-4": {
             "Hypweb\\Flysystem\\GoogleDrive\\": "src/"
         }
-    },
-    "config": {
-        "bin-dir": "bin"
     }
 }
